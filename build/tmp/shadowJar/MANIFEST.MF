@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: archaicranks
+Specification-Title: archaicranks
+Implementation-Timestamp: 2024-01-26T08:35:16-0500
+Class-Path: gson-2.10.1.jar
+Specification-Version: 1
+

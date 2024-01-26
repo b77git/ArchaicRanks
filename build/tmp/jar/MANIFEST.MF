@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: archaicranks
+Specification-Title: archaicevent
+Implementation-Timestamp: 2024-01-25T14:55:19-0500
+Specification-Version: 1
+
